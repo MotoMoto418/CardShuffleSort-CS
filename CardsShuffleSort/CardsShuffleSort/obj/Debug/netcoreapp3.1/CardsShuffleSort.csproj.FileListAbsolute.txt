@@ -1,0 +1,13 @@
+C:\Users\eanokui\source\repos\CardsShuffleSort\CardsShuffleSort\bin\Debug\netcoreapp3.1\CardsShuffleSort.exe
+C:\Users\eanokui\source\repos\CardsShuffleSort\CardsShuffleSort\bin\Debug\netcoreapp3.1\CardsShuffleSort.deps.json
+C:\Users\eanokui\source\repos\CardsShuffleSort\CardsShuffleSort\bin\Debug\netcoreapp3.1\CardsShuffleSort.runtimeconfig.json
+C:\Users\eanokui\source\repos\CardsShuffleSort\CardsShuffleSort\bin\Debug\netcoreapp3.1\CardsShuffleSort.runtimeconfig.dev.json
+C:\Users\eanokui\source\repos\CardsShuffleSort\CardsShuffleSort\bin\Debug\netcoreapp3.1\CardsShuffleSort.dll
+C:\Users\eanokui\source\repos\CardsShuffleSort\CardsShuffleSort\bin\Debug\netcoreapp3.1\CardsShuffleSort.pdb
+C:\Users\eanokui\source\repos\CardsShuffleSort\CardsShuffleSort\obj\Debug\netcoreapp3.1\CardsShuffleSort.csprojAssemblyReference.cache
+C:\Users\eanokui\source\repos\CardsShuffleSort\CardsShuffleSort\obj\Debug\netcoreapp3.1\CardsShuffleSort.AssemblyInfoInputs.cache
+C:\Users\eanokui\source\repos\CardsShuffleSort\CardsShuffleSort\obj\Debug\netcoreapp3.1\CardsShuffleSort.AssemblyInfo.cs
+C:\Users\eanokui\source\repos\CardsShuffleSort\CardsShuffleSort\obj\Debug\netcoreapp3.1\CardsShuffleSort.csproj.CoreCompileInputs.cache
+C:\Users\eanokui\source\repos\CardsShuffleSort\CardsShuffleSort\obj\Debug\netcoreapp3.1\CardsShuffleSort.dll
+C:\Users\eanokui\source\repos\CardsShuffleSort\CardsShuffleSort\obj\Debug\netcoreapp3.1\CardsShuffleSort.pdb
+C:\Users\eanokui\source\repos\CardsShuffleSort\CardsShuffleSort\obj\Debug\netcoreapp3.1\CardsShuffleSort.genruntimeconfig.cache
